@@ -1,5 +1,10 @@
 
-import projectData from './projectData.json'
+import projectData from './projectData.json';
+
+import { NavLink } from 'react-router-dom';
+
+
+
 
 
 function Project () {
@@ -8,12 +13,14 @@ function Project () {
             <h1>Projects</h1>
             {projectData.map((projectData)=>{
                 return(
-                    <div>
+                    <div className="projectItem">
                         <h3>Title: {projectData.title}</h3>
                         <p>Description: {projectData.description}</p>
-                        
-
-
+                        <span>
+                            <img className="project" src={projectData.image} alt=""/>
+                            <NavLink to={projectData.link}>Click to view project</NavLink>
+                        </span>     
+                       
                     </div>
                 )
             })}

@@ -15,7 +15,7 @@ header{
   display:flex;
   justify-content: space-between;
   align-items: center;
-  background-color: beige;
+  background-color: rgb(200, 233, 239);
   padding: 0 3%
 }
 nav a:not(:last-child){
@@ -24,10 +24,31 @@ nav a:not(:last-child){
 nav a :active {
   text-decoration: underline;
 }
-img {
-  width: 320px;
-  height: 180px
+.personal {
+  width: 1500px;
+  height: 995px
 }
+
+.project{
+  width: 600px;
+  height: 320px;
+}
+.projectItem{
+  padding:10px;
+  background-color: aliceblue;
+}
+
+span{
+  display:flex;
+  flex-direction: column;
+  padding:50px;
+  justify-content:space-evenly
+}
+span a{
+  align-self: center;
+  justify-self: center;
+}
+
 .contact{
   background-color: azure;
   margin: 5px;
@@ -43,6 +64,17 @@ form label{
 
 }
 
+.landing{
+  background-image: url(./Images/tech.jpeg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
 
 
 
