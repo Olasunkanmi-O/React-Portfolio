@@ -24,4 +24,26 @@ nav a:not(:last-child){
 nav a :active {
   text-decoration: underline;
 }
+img {
+  width: 320px;
+  height: 180px
+}
+.contact{
+  background-color: azure;
+  margin: 5px;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+form label{
+  
+  display:grid;
+  font-size: 15px;
+
+}
+
+
+
+
 
