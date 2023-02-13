@@ -4,37 +4,37 @@
     {
         "title": "Weather-Dashboard",
         "description": "This app was developed for travellers, such that you can check the weather conditions of the city you are planning to visit. It displays the weather conditions such as temperature, rainfall, UV index, wind speed. You are required to simply type in the city you plan to visit in the search box and it gives the details of the weather for that day and a 5 day weather forecast.",
-        "image": "../Images/Dashboard.jpg",
+        "image": "Dashboard",
         "link": "https://olasunkanmi-o.github.io/weather-dashboard/"
     },
     {
         "title": "Quiz Challenge",
         "description": "This app tests your knowledge about front-end development basics. When the start button is clicked, it displays the first question, and the timer starts counting down, you lose 10 seconds for every questions missed. The number of seconds left at the end of the quiz determines your score. You can save your highscores as well.",
-        "image": "/Images/Quizz.jpg",
+        "image": "Quizz",
         "link": "https://olasunkanmi-o.github.io/Timed-Quiz/"
     },
     {
         "title": "Password Generator",
         "description": "Sometimes it might be a bit difficult to generate strong password just on the go and this is the problem the app aims to solve. It requires few inputs from you as regards the type of password you will like to generate. You will be required to allow some forms of input which range from strings(character), numbers, special characters, and symbols. The app then simply generates password based on the number of input you choose.",
-        "image": "Images/passGen.jpg",
+        "image": "passGen",
         "link": "https://olasunkanmi-o.github.io/Password_Generator/"
     },
     {
         "title": "README Generator",
         "description": "A professional README speaks so much about your project. It is the first part of the project that users have access to. A good readme gives a summary of the app, how the usage is, how to install the application, the type of license used, list of contributing developers, type of test to run and probably contact information. This app asks series of questions and generates a professional README for you.",
-        "image": "Images/ReadGen.jpg",
+        "image": "ReadGen",
         "link": "https://olasunkanmi-o.github.io/ReadMe-Generator/"
     },
     {
         "title": "Fetchbook",
         "description": "A lot of times, people have found it a daunting task to make a good choice of book to read especially softcopy. The aim of this app is to display NY best seller books for the user, it allows user to pick specific genres of book with a link to purchase the book as well as save the books in their favourite for future purchase.",
-        "image": "Images/Fetchbook.jpg",
+        "image": "Fetchbook",
         "link": "https://c-navarroperez.github.io/fetchbook/"
     },
     {
         "title": "Project Title",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure commodi,nemo harum nobis quae voluptatum vel reiciendis rem  liquam. At reprehenderit repudiandae dolore ratione similique ipsam veritatis doloribus culpa tenetur",
-        "image": "",
+        "image": "Fetchbook",
         "link": "https://github.com/Olasunkanmi-o"
     }
 ]

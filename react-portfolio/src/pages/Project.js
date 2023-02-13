@@ -17,7 +17,8 @@ function Project () {
                         <h3>Title: {projectData.title}</h3>
                         <p>Description: {projectData.description}</p>
                         <span>
-                            <img className="project" src={projectData.image} alt=""/>
+                            
+                            <img className="project" src={require(`../Images/${projectData.image}.jpg`)} alt=""/>
                             <NavLink to={projectData.link}>Click to view project</NavLink>
                         </span>     
                        
