@@ -1,6 +1,7 @@
 
-
+// import picture used for about
 import picture from '../Images/myself.jpg'
+// import react for reading PDF files
 import {Document, Page} from 'react-pdf'
 
 function About () {

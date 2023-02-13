@@ -1,7 +1,7 @@
 
 import {NavLink} from 'react-router-dom'
 
-
+//  component to create the header and the nav bar
 function Header () {
     return(
         <header>

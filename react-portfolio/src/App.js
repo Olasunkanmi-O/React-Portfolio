@@ -14,6 +14,7 @@ function App() {
       <Header />
 
       <Routes>
+        {/* these create a single page app but with link to display different sections of the app */}
         <Route path="/" element={<Landing  />}/>
         <Route path="/Contact" element={<Contact />}/>
         <Route path="/Project" element={<Project />}/>
