@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Olasunkanmi-O/React-Portfolio/static/css/main.d99c4715.css",
+    "main.js": "/Olasunkanmi-O/React-Portfolio/static/js/main.8b8792c3.js",
+    "static/js/787.a2cb61a6.chunk.js": "/Olasunkanmi-O/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/myself.jpg": "/Olasunkanmi-O/React-Portfolio/static/media/myself.e8674eba35269fb2bce4.jpg",
+    "static/media/Fetchbook.jpg": "/Olasunkanmi-O/React-Portfolio/static/media/Fetchbook.60131ceff3d466e5b397.jpg",
+    "static/media/Dashboard.jpg": "/Olasunkanmi-O/React-Portfolio/static/media/Dashboard.b3017f0e4d7f67489fdb.jpg",
+    "static/media/Quizz.jpg": "/Olasunkanmi-O/React-Portfolio/static/media/Quizz.8cf3eec97c8e60b3e588.jpg",
+    "static/media/passGen.jpg": "/Olasunkanmi-O/React-Portfolio/static/media/passGen.12488ba78102fcbfc7e5.jpg",
+    "static/media/ReadGen.jpg": "/Olasunkanmi-O/React-Portfolio/static/media/ReadGen.9d703adf4b99a8ac68ab.jpg",
+    "index.html": "/Olasunkanmi-O/React-Portfolio/index.html",
+    "main.d99c4715.css.map": "/Olasunkanmi-O/React-Portfolio/static/css/main.d99c4715.css.map",
+    "main.8b8792c3.js.map": "/Olasunkanmi-O/React-Portfolio/static/js/main.8b8792c3.js.map",
+    "787.a2cb61a6.chunk.js.map": "/Olasunkanmi-O/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d99c4715.css",
+    "static/js/main.8b8792c3.js"
+  ]
+}
